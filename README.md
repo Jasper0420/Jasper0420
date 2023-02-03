@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Visitor Count](https://profile-counter.glitch.me/Jasper0420/count.svg)
+![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jasper0420&show_icons=true&theme=tokyonight)
+
+
+
