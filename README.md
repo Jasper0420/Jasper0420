@@ -14,7 +14,31 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Jasper0420's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jasper0420&show_icons=true&theme=tokyonight)
+
+
+
+# Hi, here is Jasper0420
+
+
+
+
+### Common using tools:
+![](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&logoColor=fff)
+![](https://img.shields.io/badge/-Pytorch-blue?style=flat-square&logo=Pytorch&logoColor=fff)
+![](https://img.shields.io/badge/-TensorFlow-blue?style=flat-square&logo=TensorFlow&logoColor=fff)
+![](https://img.shields.io/badge/-Html5-orange?style=flat-square&logo=Html5&logoColor=fff)
+![](https://img.shields.io/badge/-Javascript-orange?style=flat-square&logo=Javascript&logoColor=fff)
+![](https://img.shields.io/badge/-Node.js-orange?style=flat-square&logo=Node.js&logoColor=fff)
+![](https://img.shields.io/badge/-C++-darkblue?style=flat-square&logo=C%2B%2B&logoColor=fff)
+![](https://img.shields.io/badge/-Linux-gray?style=flat-square&logo=Linux&logoColor=fff)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jasper0420&repo=Deep-Learning-Practice-AlexNet)](https://github.com/Jasper0420/Deep-Learning-Practice-AlexNet)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jasper0420&repo=Deep-Learning-Practice-VGG)](https://github.com/Jasper0420/Deep-Learning-Practice-VGG)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jasper0420&repo=Deep-Learning-Practice-LeNet)](https://github.com/Jasper0420/Deep-Learning-Practice-LeNet)
+ -->
+
+![Jasper0420's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jasper0420&count_private=true&show_icons=true&theme=cobalt)
+
+
 
 
 
